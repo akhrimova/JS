@@ -22,8 +22,21 @@ switch(month) {
         console.log("autumn");
         break;
    }
-
 //2
+let L =7;
+let length = 4;
+switch(length) {
+    case 1:console.log(L/10);
+    break;
+    case 2:console.log(L*1000);
+    break;
+    case 3:console.log(L);
+    break;
+    case 4:console.log(L/1000);
+    break;
+    case 5:console.log(L/100);
+    break;
+}
 
 //3
 
